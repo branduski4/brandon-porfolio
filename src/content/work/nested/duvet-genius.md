@@ -1,7 +1,7 @@
 ---
 title: Anestesys
 publishDate: 2020-03-04 00:00:00
-img: /assets/stock-3.jpg
+img: /assets/anestesys.svg
 img_alt: Anestesys softwarea
 description: |
   We developed an Electronic Health Record for the biggest group of hospitals in México
